@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Welcome to the <a href="https://www.codingsmk.com">CodingSMK</a> community!</h1><br>
 
-<!--
-**codingsmk/codingsmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.kodingkeun.com">
+    <img src="https://www.codingsmk.com/logo.svg" alt="CodingSMK Logo" height="80">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  CodingSMK adalah komunitas anak smk ataupun developer yang ingin berkembang di dunia it.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.codingsmk.com">CodingSMK</a>
+</p>
